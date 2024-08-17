@@ -36,7 +36,7 @@ const Home: NextPage = () => {
 						Wonad
           </Link>{" "}
 					NFT marketplaces by <b>Wonad</b>,{" "}
-          <i>Let's try</i>.
+          <i>Lets try</i>.
         </p>
 
         <div className="flex justify-center text-lg font-medium items-center mt-12 gap-4">
