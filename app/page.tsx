@@ -22,7 +22,7 @@ const Home: NextPage = () => {
       <div className="px-8 mx-auto text-center">
         <h1 className="mb-5 text-white font-bold text-6xl">
           <span className="text-transparent bg-clip-text gradient">
-						This Wonad NFT Marketplaces
+						Wonad NFT Marketplaces
           </span>
           <br />
 					faster than ever.
@@ -35,23 +35,23 @@ const Home: NextPage = () => {
           >
 						Wonad
           </Link>{" "}
-					Testing NFT marketplaces by <b>Wonad</b>,{" "}
-          <i>not months</i>.
+					NFT marketplaces by <b>Wonad</b>,{" "}
+          <i>Let's try</i>.
         </p>
 
         <div className="flex justify-center text-lg font-medium items-center mt-12 gap-4">
           <Link
             className="w-56 p-3 rounded-lg transition-all hover:shadow-lg gradient border-white/10 border"
-            href="https://https://twitter.com/thiswonad"
+            href="https://x.com/thiswonad"
           >
-						Get Started
+						Twitter
           </Link>
           <Link
             className="w-56 p-3 rounded-lg bg-white/[.04] transition-all hover:bg-white/[.06] border-white/10 border"
-            href="https://github.com"
+            href="https://www.thiswonad.xyz"
             target="_blank"
           >
-						GitHub
+						Website
           </Link>
         </div>
       </div>
