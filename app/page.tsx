@@ -11,7 +11,7 @@ const Home: NextPage = () => {
     <div className="">
       <div className="flex justify-center p-2">
         <Image
-          src="/hero-asset.png"
+          src="/1723866601-picsay.png"
           width={860}
           height={540}
           alt="Hero asset, NFT marketplace"
