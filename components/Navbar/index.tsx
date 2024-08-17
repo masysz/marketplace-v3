@@ -11,7 +11,7 @@ export function Navbar() {
         <div className="flex items-center gap-3">
           <Link href="/" className="mr-4">
             <Image
-              src="/logo.png"
+              src="/wonadlogo.png"
               width={48}
               height={48}
               alt="NFT marketplace sample logo"
