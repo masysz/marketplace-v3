@@ -22,7 +22,7 @@ const Home: NextPage = () => {
       <div className="px-8 mx-auto text-center">
         <h1 className="mb-5 text-white font-bold text-6xl">
           <span className="text-transparent bg-clip-text gradient">
-						Wonad NFT Marketplaces
+						Wonad NFT Marketplace
           </span>
           <br />
 					faster than ever.
